@@ -1,4 +1,5 @@
-👋 Olá eu sou o gabriel, estou cursando análise e desenvolvimento de sistemas!
+👋 Olá eu sou o gabriel, Seja bem-vindo(a) ao meu GitHub! 🔭
+
 
 
 <div style="display: inline_block"><br>
